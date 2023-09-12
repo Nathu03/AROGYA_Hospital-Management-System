@@ -1,1 +1,0 @@
-# AROGYA_Hospital-Management-System
