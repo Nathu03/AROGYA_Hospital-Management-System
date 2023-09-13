@@ -1,6 +1,6 @@
 Login Details
 -------------------------------------
-Login Details for admin : admin/123456
-Login Details for Patient: Ravi@gmail.com/123456
-Login Details for Doctor: anuj@gmail.com/123456
+Login Details for admin : admin/Test@12345
+Login Details for Patient: johndoe12@test.com/Test@123
+Login Details for Doctor: anuj@gmail.com,anujk123@test.com/Test@123
 
